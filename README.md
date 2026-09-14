@@ -866,10 +866,4 @@ If you find this project useful:
   <img src="./assets/dynamic-bar.gif" width="100%" alt="Dynamic IPL separator">
 </p>
 
-### 🏏 IPL DATA ANALYTICS
-
-**Turning Cricket Data into Insights 📊**
-
-**Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter**
-
-</div>
+ 
