@@ -841,13 +841,6 @@ The project also provides a strong foundation for future development into **Powe
 
 **Created as a practical Data Analytics project**
 
-**Guided By:**
-
-### Mohit Sir — CETPA Infotech
-
-</div>
-
----
 
 # ⭐ Support the Project
 
