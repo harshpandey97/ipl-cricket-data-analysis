@@ -19,7 +19,6 @@
 <img src="https://img.shields.io/badge/Project-EDA-success?style=flat-square">
 <img src="https://img.shields.io/badge/League-IPL-orange?style=flat-square">
 <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square">
-<img src="https://img.shields.io/badge/PRs-Welcome-blueviolet?style=flat-square">
 
 <br/><br/>
 
