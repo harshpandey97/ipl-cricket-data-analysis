@@ -1,38 +1,40 @@
 <div align="center">
 
-<p>
-  <img src="./assets/dynamic-bar.gif" width="100%" alt="Dynamic IPL separator">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:ff6b35&height=220&section=header&text=IPL%20Cricket%20Analytics&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Exploratory%20Data%20Analysis%20using%20Python&descAlignY=55&descSize=18" width="100%" alt="header"/>
 
-# 🏏 IPL CRICKET DATA ANALYTICS
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FF6B35&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Turning+IPL+Data+into+Insights+%F0%9F%8F%8F;Team+%7C+Player+%7C+Toss+%7C+Venue+Analysis;Built+with+Pandas+%2B+NumPy+%2B+Seaborn" alt="Typing SVG" />
 
-### Indian Premier League — Exploratory Data Analysis Using Python
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-green?style=for-the-badge&logo=pandas">
-  <img src="https://img.shields.io/badge/NumPy-Computing-orange?style=for-the-badge&logo=numpy">
-  <img src="https://img.shields.io/badge/Matplotlib-Visualization-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Seaborn-Analytics-purple?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-brown?style=for-the-badge&logo=jupyter">
-</p>
+<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-Computing-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge">
+<img src="https://img.shields.io/badge/Seaborn-Analytics-4C72B0?style=for-the-badge">
+<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 
-<p>
-  <img src="https://img.shields.io/badge/Domain-Sports%20Analytics-1f6feb?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Project-EDA-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/League-IPL-orange?style=for-the-badge">
-</p>
+<br/>
 
-### 📊 Turning IPL Cricket Data into Actionable Insights
+<img src="https://img.shields.io/badge/Domain-Sports%20Analytics-1f6feb?style=flat-square">
+<img src="https://img.shields.io/badge/Project-EDA-success?style=flat-square">
+<img src="https://img.shields.io/badge/League-IPL-orange?style=flat-square">
+<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square">
+<img src="https://img.shields.io/badge/PRs-Welcome-blueviolet?style=flat-square">
 
-**Created By:** Harsh Pandey
-**Guided By:** Mohit Sir — CETPA Infotech
+<br/><br/>
+
+**Created By:** Harsh Pandey &nbsp;|&nbsp; **Guided By:** Mohit Sir — CETPA Infotech
+
+<img src="https://komarev.com/ghpvc/?username=harshpandey-ipl&label=Repo%20Views&color=ff6b35&style=flat-square" alt="views"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:ff6b35&height=3&width=100%" alt="divider"/>
 
-# 📌 Table of Contents
+## 📌 Table of Contents
+
+<details open>
+<summary><b>Click to expand</b></summary>
 
 * [🏏 About the Project](#-about-the-project)
 * [🎯 Project Objectives](#-project-objectives)
@@ -57,112 +59,103 @@
 * [🎓 Learning Outcomes](#-learning-outcomes)
 * [👨‍💻 Author](#-author)
 
----
+</details>
 
-# 🏏 About the Project
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:ff6b35&height=3&width=100%" alt="divider"/>
 
-The **IPL Cricket Data Analytics Project** is a comprehensive exploratory data analysis project focused on understanding patterns, trends, performances, and statistics from the **Indian Premier League**.
+## 🏏 About the Project
+
+> The **IPL Cricket Data Analytics Project** is a comprehensive exploratory data analysis project focused on understanding patterns, trends, performances, and statistics from the **Indian Premier League**.
 
 The project uses **Python, Pandas, NumPy, Matplotlib, Seaborn, and Jupyter Notebook** to transform raw IPL data into meaningful analytical insights.
 
-The analysis covers areas such as:
+<table>
+<tr>
+<td align="center">🏆<br><b>Team</b><br>Performance</td>
+<td align="center">🏏<br><b>Player</b><br>Performance</td>
+<td align="center">🎖️<br><b>Player of<br>the Match</b></td>
+<td align="center">🪙<br><b>Toss</b><br>Decisions</td>
+<td align="center">🏟️<br><b>Venue</b><br>Performance</td>
+</tr>
+<tr>
+<td align="center">📅<br><b>Season-wise</b><br>Trends</td>
+<td align="center">🎯<br><b>Match</b><br>Outcomes</td>
+<td align="center">📊<br><b>Statistical</b><br>Distributions</td>
+<td align="center">🔥<br><b>Winning</b><br>Patterns</td>
+<td align="center">📈<br><b>Batting/Bowling</b><br>Trends</td>
+</tr>
+</table>
 
-* 🏆 Team performance
-* 🏏 Player performance
-* 🎖️ Player of the Match awards
-* 🪙 Toss decisions
-* 🏟️ Venue performance
-* 📅 Season-wise trends
-* 🎯 Match outcomes
-* 📊 Statistical distributions
-* 🔥 Winning patterns
-* 📈 Batting and bowling-related trends
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:ff6b35&height=3&width=100%" alt="divider"/>
 
----
+## 🎯 Project Objectives
 
-# 🎯 Project Objectives
+| # | Objective | Description |
+|---|-----------|-------------|
+| 1️⃣ | **Understand IPL Match Data** | Explore the structure, quality, and characteristics of IPL datasets |
+| 2️⃣ | **Analyze Team Performance** | Identify teams with strong historical performance and winning patterns |
+| 3️⃣ | **Analyze Player Performance** | Identify important players based on awards and contributions |
+| 4️⃣ | **Study Toss Impact** | Analyze whether toss decisions correlate with match outcomes |
+| 5️⃣ | **Analyze Venues** | Identify venues with significant match counts and venue-related patterns |
+| 6️⃣ | **Discover Historical Trends** | Analyze IPL seasons to identify changes over time |
+| 7️⃣ | **Build Data Analytics Skills** | Apply practical, end-to-end analytics skills |
 
-The primary objectives of this project are:
-
-### 1️⃣ Understand IPL Match Data
-
-Explore the structure, quality, and characteristics of IPL datasets.
-
-### 2️⃣ Analyze Team Performance
-
-Identify teams with strong historical performance and analyze their winning patterns.
-
-### 3️⃣ Analyze Player Performance
-
-Identify important players based on awards, match performances, and historical contribution.
-
-### 4️⃣ Study Toss Impact
-
-Analyze whether winning the toss and choosing a particular decision is associated with match outcomes.
-
-### 5️⃣ Analyze Venues
-
-Identify venues with significant numbers of IPL matches and investigate venue-related patterns.
-
-### 6️⃣ Discover Historical Trends
-
-Analyze IPL seasons to identify changes and trends over time.
-
-### 7️⃣ Build Data Analytics Skills
-
-Apply practical skills in:
-
-```text
-Data Cleaning
-      ↓
-Data Exploration
-      ↓
-Data Transformation
-      ↓
-Statistical Analysis
-      ↓
-Data Visualization
-      ↓
-Insight Generation
+```mermaid
+flowchart LR
+    A[🧹 Data Cleaning] --> B[🔍 Data Exploration]
+    B --> C[🔄 Data Transformation]
+    C --> D[📊 Statistical Analysis]
+    D --> E[📈 Data Visualization]
+    E --> F[💡 Insight Generation]
+    style A fill:#1f6feb,color:#fff
+    style B fill:#3178c6,color:#fff
+    style C fill:#4C72B0,color:#fff
+    style D fill:#ff9f43,color:#fff
+    style E fill:#ff6b35,color:#fff
+    style F fill:#2ecc71,color:#fff
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:ff6b35&height=3&width=100%" alt="divider"/>
 
-# 📊 Dataset Overview
+## 📊 Dataset Overview
 
 The project analyzes IPL match-level data covering multiple seasons of the tournament.
 
-The dataset contains information related to:
+| Category | Examples |
+|----------|----------|
+| 🏏 Matches | Match ID, date, season |
+| 🏆 Teams | Team names and competing teams |
+| 🏟️ Venue | Stadium / match location |
+| 🪙 Toss | Toss winner and toss decision |
+| 🥇 Result | Match winner |
+| 🎖️ Awards | Player of the Match |
+| 📊 Outcome | Win / loss / no-result / tie |
+| 👨‍⚖️ Officials | Umpire information |
 
-| Category        | Examples                       |
-| --------------- | ------------------------------ |
-| 🏏 Matches      | Match ID, date, season         |
-| 🏆 Teams        | Team names and competing teams |
-| 🏟️ Venue       | Stadium / match location       |
-| 🪙 Toss         | Toss winner and toss decision  |
-| 🥇 Result       | Match winner                   |
-| 🎖️ Awards      | Player of the Match            |
-| 📊 Outcome      | Win/loss/no-result/tie         |
-| 👨‍⚖️ Officials | Umpire information             |
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:ff6b35&height=3&width=100%" alt="divider"/>
 
----
+## 🛠️ Technology Stack
 
-# 🛠️ Technology Stack
+<div align="center">
 
-| Technology          | Purpose                             |
-| ------------------- | ----------------------------------- |
-| 🐍 Python           | Core programming language           |
-| 🐼 Pandas           | Data manipulation and analysis      |
-| 🔢 NumPy            | Numerical computing                 |
-| 📊 Matplotlib       | Data visualization                  |
-| 📈 Seaborn          | Statistical visualization           |
-| 📓 Jupyter Notebook | Interactive analysis                |
-| 💻 VS Code          | Development environment             |
-| 🐙 GitHub           | Version control and project hosting |
+<img src="https://skillicons.dev/icons?i=python,vscode,git,github&theme=dark" />
 
----
+</div>
 
-# 📁 Project Structure
+| Technology | Purpose |
+|------------|---------|
+| 🐍 Python | Core programming language |
+| 🐼 Pandas | Data manipulation and analysis |
+| 🔢 NumPy | Numerical computing |
+| 📊 Matplotlib | Data visualization |
+| 📈 Seaborn | Statistical visualization |
+| 📓 Jupyter Notebook | Interactive analysis |
+| 💻 VS Code | Development environment |
+| 🐙 GitHub | Version control and project hosting |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:ff6b35&height=3&width=100%" alt="divider"/>
+
+## 📁 Project Structure
 
 ```text
 IPL-CRICKET-DATA-ANALYTICS/
@@ -194,52 +187,23 @@ IPL-CRICKET-DATA-ANALYTICS/
 
 > **Note:** Update filenames above if your actual repository uses different filenames.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:ff6b35&height=3&width=100%" alt="divider"/>
 
-# 🔍 Data Analysis Workflow
+## 🔍 Data Analysis Workflow
 
-The project follows a structured data analytics workflow.
-
-```text
-                IPL RAW DATA
-                     │
-                     ▼
-             ┌──────────────┐
-             │ Data Loading │
-             └──────┬───────┘
-                    │
-                    ▼
-             ┌──────────────┐
-             │ Data Cleaning│
-             └──────┬───────┘
-                    │
-                    ▼
-             ┌──────────────┐
-             │ Data Wrangling│
-             └──────┬───────┘
-                    │
-                    ▼
-             ┌──────────────┐
-             │ Exploratory  │
-             │ Data Analysis│
-             └──────┬───────┘
-                    │
-                    ▼
-             ┌──────────────┐
-             │ Visualization│
-             └──────┬───────┘
-                    │
-                    ▼
-             ┌──────────────┐
-             │   Insights   │
-             └──────────────┘
+```mermaid
+flowchart TD
+    A([🏏 IPL Raw Data]) --> B[📥 Data Loading]
+    B --> C[🧹 Data Cleaning]
+    C --> D[🔄 Data Wrangling]
+    D --> E[🔎 Exploratory Data Analysis]
+    E --> F[📊 Visualization]
+    F --> G([💡 Insights])
+    style A fill:#0d1117,color:#fff,stroke:#1f6feb,stroke-width:2px
+    style G fill:#0d1117,color:#fff,stroke:#ff6b35,stroke-width:2px
 ```
 
----
-
-# 🧹 Data Cleaning
-
-The analysis includes several data-preparation steps:
+### 🧹 Data Cleaning
 
 * Checking dataset dimensions
 * Identifying missing values
@@ -250,8 +214,6 @@ The analysis includes several data-preparation steps:
 * Converting date columns
 * Validating categorical variables
 * Preparing data for visualization
-
-Example:
 
 ```python
 import pandas as pd
@@ -264,64 +226,76 @@ print(df.isnull().sum())
 print(df.describe())
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:ff6b35&height=3&width=100%" alt="divider"/>
 
-# 📈 Key Analysis Areas
+## 📈 Key Analysis Areas
 
-The project investigates several important IPL questions.
-
-### 🏆 Team Analysis
+<details>
+<summary>🏆 <b>Team Analysis</b></summary>
+<br>
 
 * Which teams have won the most matches?
 * Which teams have the strongest historical performance?
 * Which teams have appeared most frequently?
 * How does team performance change by season?
 
-### 👤 Player Analysis
+</details>
+
+<details>
+<summary>👤 <b>Player Analysis</b></summary>
+<br>
 
 * Which players have received the most Player of the Match awards?
 * Which players consistently appear among top performers?
 * Which players have had significant historical impact?
 
-### 🪙 Toss Analysis
+</details>
+
+<details>
+<summary>🪙 <b>Toss Analysis</b></summary>
+<br>
 
 * Which teams have won the most tosses?
 * What decision is most common after winning the toss?
 * Does winning the toss appear to influence match outcomes?
 
-### 🏟️ Venue Analysis
+</details>
+
+<details>
+<summary>🏟️ <b>Venue Analysis</b></summary>
+<br>
 
 * Which venues hosted the most matches?
 * Which venues have the highest match activity?
 * How are match outcomes distributed across venues?
 
-### 📅 Season Analysis
+</details>
+
+<details>
+<summary>📅 <b>Season Analysis</b></summary>
+<br>
 
 * How has the IPL changed across seasons?
 * Which seasons had the highest number of matches?
 * How have teams and venues changed over time?
 
----
+</details>
 
-# 🏆 Team Performance
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:ff6b35&height=3&width=100%" alt="divider"/>
+
+## 🏆 Team Performance
 
 Team performance is one of the major components of this project.
 
-The analysis can be used to calculate:
-
-```text
-Total Matches
-      ↓
-Matches Won
-      ↓
-Matches Lost
-      ↓
-Win Percentage
-      ↓
-Season-wise Performance
+```mermaid
+flowchart LR
+    A[Total Matches] --> B[Matches Won]
+    B --> C[Matches Lost]
+    C --> D[Win Percentage]
+    D --> E[Season-wise Performance]
+    style A fill:#1f6feb,color:#fff
+    style E fill:#ff6b35,color:#fff
 ```
-
-Example analytical calculation:
 
 ```python
 team_wins = df["winner"].value_counts()
@@ -331,21 +305,19 @@ print(team_wins)
 
 This helps identify teams that have historically performed strongly in the IPL.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:ff6b35&height=3&width=100%" alt="divider"/>
 
-# 👤 Player Performance
+## 👤 Player Performance
 
 Player-level analysis focuses on identifying influential performers.
 
-Important metrics include:
+**Important metrics include:**
 
-* Player of the Match awards
-* Number of appearances
-* Match-winning contributions
-* Season-wise recognition
-* Frequency of awards
-
-Example:
+* 🎖️ Player of the Match awards
+* 🔢 Number of appearances
+* 🏏 Match-winning contributions
+* 📅 Season-wise recognition
+* 📈 Frequency of awards
 
 ```python
 player_awards = df["player_of_match"].value_counts()
@@ -353,15 +325,13 @@ player_awards = df["player_of_match"].value_counts()
 print(player_awards.head(10))
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:ff6b35&height=3&width=100%" alt="divider"/>
 
-# 🎖️ Player of the Match Analysis
+## 🎖️ Player of the Match Analysis
 
 The **Player of the Match** section identifies players who have repeatedly produced match-winning performances.
 
-The analysis can answer:
-
-> Who has received the most Player of the Match awards?
+> 🏏 *Who has received the most Player of the Match awards?*
 
 ```python
 top_players = (
@@ -373,21 +343,17 @@ top_players = (
 print(top_players)
 ```
 
-This provides a simple way to identify historically influential IPL players.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:ff6b35&height=3&width=100%" alt="divider"/>
 
----
-
-# 🏟️ Venue Analysis
+## 🏟️ Venue Analysis
 
 Venue analysis examines IPL activity across different stadiums.
 
-Key questions include:
+**Key questions include:**
 
 * Which venues hosted the most matches?
 * Which locations have been major IPL centers?
 * How has venue usage changed over time?
-
-Example:
 
 ```python
 venue_matches = df["venue"].value_counts().head(10)
@@ -395,25 +361,19 @@ venue_matches = df["venue"].value_counts().head(10)
 print(venue_matches)
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:ff6b35&height=3&width=100%" alt="divider"/>
 
-# 🪙 Toss Analysis
+## 🪙 Toss Analysis
 
 The project investigates the relationship between the toss and match outcomes.
 
-Important variables:
-
-```text
-Toss Winner
-     +
-Toss Decision
-     +
-Match Winner
-     ↓
-Toss Outcome Analysis
+```mermaid
+flowchart LR
+    A[Toss Winner] --> D[Toss Outcome Analysis]
+    B[Toss Decision] --> D
+    C[Match Winner] --> D
+    style D fill:#ff6b35,color:#fff
 ```
-
-Example:
 
 ```python
 toss_wins = df["toss_winner"].value_counts()
@@ -433,75 +393,60 @@ print(toss_match_winner.mean() * 100)
 
 This helps estimate how frequently the toss-winning team also won the match.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:ff6b35&height=3&width=100%" alt="divider"/>
 
-# 📊 Statistical Analysis
+## 📊 Statistical Analysis
 
-Statistical analysis is used to identify patterns within the dataset.
+**Important techniques include:**
 
-Important techniques include:
-
-* Frequency analysis
-* GroupBy analysis
-* Aggregation
-* Percentage calculations
-* Distribution analysis
-* Comparative analysis
-* Trend analysis
-* Correlation where applicable
-
-Example:
+* 📈 Frequency analysis
+* 🗂️ GroupBy analysis
+* ➕ Aggregation
+* 📐 Percentage calculations
+* 📊 Distribution analysis
+* ⚖️ Comparative analysis
+* 📉 Trend analysis
+* 🔗 Correlation where applicable
 
 ```python
 df.groupby("season")["id"].count()
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:ff6b35&height=3&width=100%" alt="divider"/>
 
-# 📉 Data Visualizations
+## 📉 Data Visualizations
 
-The project uses multiple visualization techniques.
+<table>
+<tr>
+<th>Chart Type</th>
+<th>Used For</th>
+</tr>
+<tr>
+<td>📊 <b>Bar Charts</b></td>
+<td>Team wins, player awards, venue matches, season statistics</td>
+</tr>
+<tr>
+<td>🥧 <b>Pie Charts</b></td>
+<td>Toss decisions, match-result distributions, categorical comparisons</td>
+</tr>
+<tr>
+<td>📈 <b>Line Charts</b></td>
+<td>Season-wise trends, historical performance, match counts over time</td>
+</tr>
+<tr>
+<td>🔥 <b>Heatmaps</b></td>
+<td>Relationships between categorical or numerical variables</td>
+</tr>
+<tr>
+<td>📦 <b>Distribution Plots</b></td>
+<td>Understanding statistical distributions</td>
+</tr>
+</table>
 
-### 📊 Bar Charts
+### 🖼️ Visualization Gallery
 
-Used for:
+> Replace the image filenames below with the exact filenames in your repository.
 
-* Team wins
-* Player awards
-* Venue matches
-* Season statistics
-
-### 🥧 Pie Charts
-
-Used for:
-
-* Toss decisions
-* Match-result distributions
-* Selected categorical comparisons
-
-### 📈 Line Charts
-
-Used for:
-
-* Season-wise trends
-* Historical performance
-* Match counts over time
-
-### 🔥 Heatmaps
-
-Used to identify relationships between categorical or numerical variables where appropriate.
-
-### 📦 Distribution Plots
-
-Used to understand statistical distributions.
-
----
-
-# 🖼️ Visualization Gallery
-
-Add your actual project charts here.
-
-```html
 <p align="center">
   <img src="./visualizations/team_performance.png" width="48%">
   <img src="./visualizations/player_performance.png" width="48%">
@@ -511,49 +456,59 @@ Add your actual project charts here.
   <img src="./visualizations/toss_analysis.png" width="48%">
   <img src="./visualizations/venue_analysis.png" width="48%">
 </p>
-```
 
-> Replace the image filenames with the exact filenames in your repository.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:ff6b35&height=3&width=100%" alt="divider"/>
 
----
+## 💡 Key Insights
 
-# 💡 Key Insights
+<table>
+<tr>
+<td valign="top" width="20%">
 
-The analysis is designed to uncover insights such as:
+**🏆 Team**
+- Historical differences in performance
+- Strong-performing franchises
+- Season-wise dominance shifts
 
-### 🏆 Team Insights
+</td>
+<td valign="top" width="20%">
 
-* Historical differences in team performance
-* Strong-performing franchises
-* Season-wise changes in team dominance
+**👤 Player**
+- Repeated PoM recognition
+- Consistently influential players
+- Historical performance patterns
 
-### 👤 Player Insights
+</td>
+<td valign="top" width="20%">
 
-* Players with repeated Player of the Match recognition
-* Consistently influential players
-* Historical patterns in individual performance
+**🪙 Toss**
+- Most common toss decisions
+- Toss winner vs match winner link
+- Strategy shifts across seasons
 
-### 🪙 Toss Insights
+</td>
+<td valign="top" width="20%">
 
-* Most common toss decisions
-* Relationship between toss winner and match winner
-* Changes in toss strategies across seasons
+**🏟️ Venue**
+- Most frequently used venues
+- Major IPL cricket centers
+- Venue distribution by season
 
-### 🏟️ Venue Insights
+</td>
+<td valign="top" width="20%">
 
-* Most frequently used IPL venues
-* Major IPL cricket centers
-* Venue distribution across seasons
+**📅 Season**
+- Tournament growth & evolution
+- Variation in match counts
+- Team & venue changes
 
-### 📅 Season Insights
+</td>
+</tr>
+</table>
 
-* Growth and evolution of the tournament
-* Variation in number of matches
-* Changes in participating teams and venues
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:ff6b35&height=3&width=100%" alt="divider"/>
 
----
-
-# 🧠 Analytical Questions
+## 🧠 Analytical Questions
 
 This project can answer questions such as:
 
@@ -568,49 +523,40 @@ This project can answer questions such as:
 9. Which players consistently appear among top performers?
 10. What major trends can be identified from IPL historical data?
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:ff6b35&height=3&width=100%" alt="divider"/>
 
-# 💻 How to Run the Project
+## 💻 How to Run the Project
 
-### Step 1 — Clone the Repository
-
+**Step 1 — Clone the Repository**
 ```bash
 git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
 ```
 
-### Step 2 — Enter the Project
-
+**Step 2 — Enter the Project**
 ```bash
 cd IPL-CRICKET-DATA-ANALYTICS
 ```
 
-### Step 3 — Install Dependencies
-
+**Step 3 — Install Dependencies**
 ```bash
 pip install -r requirements.txt
 ```
 
-### Step 4 — Launch Jupyter Notebook
-
+**Step 4 — Launch Jupyter Notebook**
 ```bash
 jupyter notebook
 ```
 
-### Step 5 — Open the Analysis Notebook
-
-Open:
-
+**Step 5 — Open the Analysis Notebook**
 ```text
 notebooks/IPL_Data_Analysis.ipynb
 ```
 
-Run the notebook cells sequentially.
+Run the notebook cells sequentially. ✅
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:ff6b35&height=3&width=100%" alt="divider"/>
 
-# 📦 Installation
-
-Install the primary Python libraries:
+## 📦 Installation
 
 ```bash
 pip install pandas numpy matplotlib seaborn jupyter
@@ -622,41 +568,32 @@ Or install everything from:
 pip install -r requirements.txt
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:ff6b35&height=3&width=100%" alt="divider"/>
 
-# 📓 Notebook
+## 📓 Notebook
 
-The complete exploratory analysis is available in the Jupyter Notebook.
-
-### Main Notebook
+The complete exploratory analysis is available in the Jupyter Notebook:
 
 ```text
 IPL_Data_Analysis.ipynb
 ```
 
-The notebook contains:
-
-```text
-Data Import
-    ↓
-Data Cleaning
-    ↓
-Exploratory Analysis
-    ↓
-Statistical Analysis
-    ↓
-Visualizations
-    ↓
-Insights
+```mermaid
+flowchart LR
+    A[Data Import] --> B[Data Cleaning]
+    B --> C[Exploratory Analysis]
+    C --> D[Statistical Analysis]
+    D --> E[Visualizations]
+    E --> F[Insights]
+    style A fill:#1f6feb,color:#fff
+    style F fill:#ff6b35,color:#fff
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:ff6b35&height=3&width=100%" alt="divider"/>
 
-# 📄 Project Report
+## 📄 Project Report
 
-A detailed project report is included with the repository.
-
-The report documents:
+A detailed project report is included with the repository, documenting:
 
 * Project objectives
 * Dataset description
@@ -666,197 +603,159 @@ The report documents:
 * Major findings
 * Conclusions
 
----
+## 🎤 Project Presentation
 
-# 🎤 Project Presentation
-
-The project presentation summarizes the analysis in a presentation-friendly format.
-
-Recommended presentation structure:
+**Recommended presentation structure:**
 
 ```text
-1. Introduction
-2. Problem Statement
-3. Dataset
-4. Technology Stack
-5. Data Cleaning
-6. Exploratory Data Analysis
+1. Introduction              8. Player Analysis
+2. Problem Statement         9. Toss Analysis
+3. Dataset                  10. Venue Analysis
+4. Technology Stack         11. Visualizations
+5. Data Cleaning            12. Key Insights
+6. Exploratory Data         13. Conclusion
+   Analysis                 14. Future Scope
 7. Team Analysis
-8. Player Analysis
-9. Toss Analysis
-10. Venue Analysis
-11. Visualizations
-12. Key Insights
-13. Conclusion
-14. Future Scope
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:ff6b35&height=3&width=100%" alt="divider"/>
 
-# 🚀 Future Enhancements
+## 🚀 Future Enhancements
 
-The project can be extended into a complete IPL analytics platform.
+<table>
+<tr>
+<td>📊 Interactive Power BI dashboard</td>
+<td>🖥️ Interactive Streamlit dashboard</td>
+</tr>
+<tr>
+<td>🏏 Player performance prediction</td>
+<td>🎯 Match winner prediction</td>
+</tr>
+<tr>
+<td>📈 Win-probability model</td>
+<td>🤝 Player recommendation system</td>
+</tr>
+<tr>
+<td>⚖️ Team comparison dashboard</td>
+<td>📅 Season comparison dashboard</td>
+</tr>
+<tr>
+<td>🧮 Advanced statistical modeling</td>
+<td>🤖 Machine Learning integration</td>
+</tr>
+<tr>
+<td>🗄️ SQL-based IPL analytics</td>
+<td>⚙️ Automated data pipeline</td>
+</tr>
+<tr>
+<td colspan="2" align="center">📡 Live IPL data integration</td>
+</tr>
+</table>
 
-### 🔮 Planned Improvements
-
-* Interactive Power BI dashboard
-* Interactive Streamlit dashboard
-* Player performance prediction
-* Match winner prediction
-* Win-probability model
-* Player recommendation system
-* Team comparison dashboard
-* Season comparison dashboard
-* Advanced statistical modeling
-* Machine Learning integration
-* SQL-based IPL analytics
-* Automated data pipeline
-* Live IPL data integration
-
-### 🤖 Machine Learning Extension
-
-Future versions can include:
-
-```text
-Historical IPL Data
-        ↓
-Feature Engineering
-        ↓
-Machine Learning Model
-        ↓
-Match Prediction
-        ↓
-Win Probability
-        ↓
-Interactive Dashboard
+```mermaid
+flowchart TD
+    A[Historical IPL Data] --> B[Feature Engineering]
+    B --> C[Machine Learning Model]
+    C --> D[Match Prediction]
+    D --> E[Win Probability]
+    E --> F[Interactive Dashboard]
+    style A fill:#1f6feb,color:#fff
+    style F fill:#ff6b35,color:#fff
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:ff6b35&height=3&width=100%" alt="divider"/>
 
-# 🎓 Learning Outcomes
+## 🎓 Learning Outcomes
 
-Through this project, the following practical skills are demonstrated:
+<table>
+<tr>
+<td valign="top">
 
-### Python
+**🐍 Python**
+- Variables
+- Functions
+- Data structures
+- Conditional logic
+- Data processing
 
-* Variables
-* Functions
-* Data structures
-* Conditional logic
-* Data processing
+</td>
+<td valign="top">
 
-### Pandas
+**🐼 Pandas**
+- DataFrame manipulation
+- Filtering
+- GroupBy
+- Aggregation
+- Missing-value handling
+- Data transformation
 
-* DataFrame manipulation
-* Filtering
-* GroupBy
-* Aggregation
-* Missing-value handling
-* Data transformation
+</td>
+<td valign="top">
 
-### NumPy
+**🔢 NumPy**
+- Numerical operations
+- Arrays
+- Statistical calculations
 
-* Numerical operations
-* Arrays
-* Statistical calculations
+</td>
+<td valign="top">
 
-### Visualization
+**📈 Visualization**
+- Matplotlib
+- Seaborn
+- Statistical charts
+- Comparative viz
+- Trend analysis
 
-* Matplotlib
-* Seaborn
-* Statistical charts
-* Comparative visualization
-* Trend analysis
+</td>
+<td valign="top">
 
-### Data Analytics
+**📊 Analytics**
+- EDA
+- Data cleaning
+- Pattern identification
+- KPI analysis
+- Insight generation
+- Data storytelling
 
-* Exploratory Data Analysis
-* Data cleaning
-* Pattern identification
-* KPI analysis
-* Insight generation
-* Data storytelling
+</td>
+</tr>
+</table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:ff6b35&height=3&width=100%" alt="divider"/>
 
-# 📊 Project Pipeline
-
-<div align="center">
-
-```text
-┌─────────────────────────┐
-│      IPL DATASET        │
-└────────────┬────────────┘
-             ↓
-┌─────────────────────────┐
-│     DATA CLEANING       │
-└────────────┬────────────┘
-             ↓
-┌─────────────────────────┐
-│   EXPLORATORY ANALYSIS  │
-└────────────┬────────────┘
-             ↓
-┌─────────────────────────┐
-│   STATISTICAL ANALYSIS  │
-└────────────┬────────────┘
-             ↓
-┌─────────────────────────┐
-│    VISUALIZATIONS       │
-└────────────┬────────────┘
-             ↓
-┌─────────────────────────┐
-│     KEY INSIGHTS        │
-└─────────────────────────┘
-```
-
-</div>
-
----
-
-# 🏁 Conclusion
+## 🏁 Conclusion
 
 The **IPL Cricket Data Analytics Project** demonstrates how Python-based data analytics can be applied to real-world sports data.
 
 By combining data cleaning, exploratory analysis, statistical techniques, and visualization, the project transforms raw IPL match information into meaningful insights about:
 
-🏆 Teams
-👤 Players
-🎖️ Player of the Match awards
-🪙 Toss decisions
-🏟️ Venues
-📅 Seasons
-📊 Match outcomes
+🏆 Teams &nbsp;•&nbsp; 👤 Players &nbsp;•&nbsp; 🎖️ Player of the Match Awards &nbsp;•&nbsp; 🪙 Toss Decisions &nbsp;•&nbsp; 🏟️ Venues &nbsp;•&nbsp; 📅 Seasons &nbsp;•&nbsp; 📊 Match Outcomes
 
 The project also provides a strong foundation for future development into **Power BI dashboards, Streamlit applications, SQL analytics, and Machine Learning prediction systems**.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:ff6b35&height=3&width=100%" alt="divider"/>
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 <div align="center">
 
-## Harsh Pandey
+### Harsh Pandey
 
-### Data Analytics | Python | SQL | Data Visualization
+**Data Analytics | Python | SQL | Data Visualization**
 
-**Created as a practical Data Analytics project**
+*Created as a practical Data Analytics project*
 
+<br/>
 
-# ⭐ Support the Project
+## ⭐ Support the Project
 
 If you find this project useful:
 
-⭐ Star the repository
-🍴 Fork the repository
-📢 Share the project
-💡 Suggest improvements
+⭐ Star the repository &nbsp;|&nbsp; 🍴 Fork the repository &nbsp;|&nbsp; 📢 Share the project &nbsp;|&nbsp; 💡 Suggest improvements
 
----
+<br/>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,100:1f6feb&height=150&section=footer" width="100%"/>
 
-<p>
-  <img src="./assets/dynamic-bar.gif" width="100%" alt="Dynamic IPL separator">
-</p>
-
- 
+</div>
