@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:ff6b35&height=220&section=header&text=IPL%20Cricket%20Analytics&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Exploratory%20Data%20Analysis%20using%20Python&descAlignY=55&descSize=18" width="100%" alt="header"/>
 
+
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FF6B35&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Turning+IPL+Data+into+Insights+%F0%9F%8F%8F;Team+%7C+Player+%7C+Toss+%7C+Venue+Analysis;Built+with+Pandas+%2B+NumPy+%2B+Seaborn" alt="Typing SVG" />
 
 
