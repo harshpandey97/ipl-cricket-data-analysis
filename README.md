@@ -4,7 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FF6B35&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Turning+IPL+Data+into+Insights+%F0%9F%8F%8F;Team+%7C+Player+%7C+Toss+%7C+Venue+Analysis;Built+with+Pandas+%2B+NumPy+%2B+Seaborn" alt="Typing SVG" />
 
+
+
 <br/>
+
 
 <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white">
